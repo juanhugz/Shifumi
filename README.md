@@ -1,0 +1,1 @@
+This project is an exercise : creating a Rock Paper Scissors game
